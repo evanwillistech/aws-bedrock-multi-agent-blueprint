@@ -127,13 +127,8 @@ Big thank you to [Tamer Chowdhury](https://www.linkedin.com/in/tamer-chowdhury-9
 
 ## Author
 
-Hi, I'm Max. I am a certified Senior IT Freelancer from Germany, supporting my clients remotely in different industries and roles. My focus areas are AWS Cloud, Data Engineering, DevOps Development and Artificial Intelligence. My working modes are high-level and hands-on, combined with an agile mindset to deliver high-quality, state-of-the-art solutions.
+Hi, I'm Evan. I am a certified Senior IT Freelancer from US, supporting my clients remotely in different industries and roles. My focus areas are AWS Cloud, Data Engineering, DevOps Development and Artificial Intelligence. My working modes are high-level and hands-on, combined with an agile mindset to deliver high-quality, state-of-the-art solutions.
 
-If you want to work with me (on your next Agent project on AWS), please get in touch via:
-
-[![website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://maxritter.net/)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rittermax/)
-[![github](https://img.shields.io/badge/GitHub-2b3137?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxritter)
 
 ## Contributing
 
