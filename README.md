@@ -4,7 +4,7 @@ A sophisticated blueprint for building production-ready, multi-agent application
 
 This solution enables seamless deployment of collaborative AI agents that can reason, analyze data, and interact with external tools. Built on AWS CDK, it provides a complete infrastructure featuring graph search capabilities, comprehensive observability, secure authentication, and an intuitive interface. Perfect for developers looking to leverage the full potential of AWS Bedrock's AI capabilities in a scalable, secure, and observable way 🚀
 
-## Architecture
+## Architecture 
 
 <a href="diag/architecture.png"><img src="diag/architecture.png" width="600"></a>
 
